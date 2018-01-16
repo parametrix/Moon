@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-tags: [about, Jekyll, theme, moon]
+tags: [about, profile, bio, certifications]
 date: 2016-03-21
 comments: false
 ---
@@ -33,8 +33,9 @@ comments: false
       })();
   </script>
 
-<figure>
+<figure class="half">
  <a href="/assets/img/LEED_AP.png"><img src="/assets/img/LEED_AP.png"></a>
+ <a href="/assets/img/blank.png"><img src="/assets/img/blank.png"></a>
 </figure>
 
 
