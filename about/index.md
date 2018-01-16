@@ -33,8 +33,9 @@ comments: false
       })();
   </script>
 
-
-<figure class="full"><a href="/assets/img/LEED_AP.png"</a><figure>
+<figure>
+ <a href="/assets/img/LEED_AP.png"></a>
+<figure>
 
 
 ## Features
