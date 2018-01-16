@@ -34,7 +34,7 @@ comments: false
   </script>
 
 <figure class="half">
- <a href="https://www.usgbc.org/people/francis-sebastian/0010035466"><img src="/assets/img/LEED_AP_sml.png">USGBC</a>
+ <a href="https://www.usgbc.org/people/francis-sebastian/0010035466"><img src="/assets/img/LEED_AP_sml.png"></a>
  <a href="/assets/img/blank.png"><img src="/assets/img/blank_sml.png"></a>
 </figure>
 
