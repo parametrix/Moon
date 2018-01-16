@@ -35,7 +35,7 @@ comments: false
 
 <figure class="half">
  <a href="/assets/img/LEED_AP.png"><img src="/assets/img/LEED_AP_sml.png"></a>
- <a href="/assets/img/blank.png"><img src="/assets/img/blank.png"></a>
+ <a href="/assets/img/blank.png"><img src="/assets/img/blank_sml.png"></a>
 </figure>
 
 
