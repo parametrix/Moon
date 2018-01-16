@@ -34,7 +34,7 @@ comments: false
       o.parentNode.insertBefore(s, o);
       })();
   </script>
-{::options parse_block_html="false" /}
+
 
 <figure><a href="/assets/img/LEED_AP.png"</a><figure>
 
