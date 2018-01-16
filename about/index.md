@@ -35,7 +35,7 @@ comments: false
 
 <figure>
  <a href="/assets/img/LEED_AP.png"></a>
-<figure>
+</figure>
 
 
 ## Features
