@@ -36,6 +36,8 @@ comments: false
   </script>
 {::options parse_block_html="false" /}
 
+<figure><a href="/assets/img/LEED_AP.png"</a><figure>
+
 
 ## Features
 * Minimal, you can focus on your content
