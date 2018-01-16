@@ -36,6 +36,10 @@ comments: false
   </script>
 {::options parse_block_html="false" /}
 
+## Social
+{::options parse_block_html="true" /}
+<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="francissebastian"><a class="LI-simple-link" href='https://www.linkedin.com/in/francissebastian?trk=profile-badge'>Francis S.</a></div>
+{::options parse_block_html="false" /}
 
 ## Features
 * Minimal, you can focus on your content
