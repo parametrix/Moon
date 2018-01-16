@@ -11,7 +11,7 @@ comments: false
 
 ## Certifications
 {::options parse_block_html="true" /}
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="01700fdb-3569-4e31-af21-e1dea078c902"></div>
+<div data-iframe-width="300" data-iframe-height="300" data-share-badge-id="01700fdb-3569-4e31-af21-e1dea078c902"></div>
   <script type="text/javascript">
     (function() {
       var s = document.createElement('script');
