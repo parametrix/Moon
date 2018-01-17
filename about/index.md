@@ -6,8 +6,9 @@ date: 2018-01-17
 comments: false
 ---
 
-
-<center><a href="http://parametrix.github.io"><b>Parametrix</b></a> is a character inspired by Goscinny and Uderzo's 'Asterix'.</center>
+<center>
+<a class="btn zoombtn" href="{{site.url}}"><i class="fa fa-home"></i></a>
+<a href="http://parametrix.github.io"><b>Parametrix</b></a> is a character inspired by Goscinny and Uderzo's 'Asterix'.</center>
 
 ## Bio
 Building Information Modeling (BIM) Specialist, Architectural Designer, and Application Developer using Dynamo, c#, LAMP Stack, and Python
