@@ -15,7 +15,7 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
 
 ## Articles and Publications
 <ol>
-(https://www.engineering.com/BIM/ArticleID/10338/Pragmatic-BIM-with-Cadsofts-Envisioneer-Building-Essentials.aspx)" target="_blank">Pragmatic BIM with CADSoft’s Envisioneer Building​ | Engineering.com</a>
+<a href="https://www.engineering.com/BIM/ArticleID/10338/Pragmatic-BIM-with-Cadsofts-Envisioneer-Building-Essentials.aspx" target="_blank">Pragmatic BIM with CADSoft’s Envisioneer Building​ | Engineering.com</a>
 </ol>
 <ol>
 <a href="https://www.caddigest.com/autodesk-sim-360-for-on-demand-fea/" target="_blank">Autodesk SIM 360 for On-Demand Finite Element Analysis for Mechanical Engineers​ | CADDigest.com</a>
