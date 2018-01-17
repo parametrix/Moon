@@ -15,18 +15,19 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
 
 ## Articles and Publications
 <ol>
+<li>
 <a href="https://www.engineering.com/BIM/ArticleID/10338/Pragmatic-BIM-with-Cadsofts-Envisioneer-Building-Essentials.aspx" target="_blank">Pragmatic BIM with CADSoft’s Envisioneer Building​ | Engineering.com</a>
-</ol>
-<ol>
+</li>
+<li>
 <a href="https://www.caddigest.com/autodesk-sim-360-for-on-demand-fea/" target="_blank">Autodesk SIM 360 for On-Demand Finite Element Analysis for Mechanical Engineers​ | CADDigest.com</a>
-</ol>
-<ol>
+</li>
+<li>
 <a href="https://www.caddigest.com/how-to-visualize-drawings-and-models-using-synergis-adept-edms/" target="_blank">How to Visualize Drawings and Models Using Synergis Adept Engineering Data Management System​ | CADDigest.com</a>
-</ol>
-<ol>
+</li>
+<li>
 <a href="https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/" target="_blank">Dissecting the RTV Xporter Pro Add-In for Autodesk Revit</a>
+</li>
 </ol>
-
 
 ## Certifications
 <div data-iframe-width="350" data-iframe-height="270" data-share-badge-id="01700fdb-3569-4e31-af21-e1dea078c902"></div>
