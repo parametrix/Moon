@@ -38,8 +38,8 @@ disqus_shortname:   taylantatli
   #ad-slot:
 #bing-verify:
 email:              parametricanalytics@gmail.com
-twitter:            parametrix_
-facebook:           username
+#twitter:            parametrix_
+#facebook:           username
 github-url:         parametrix
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 linkedin:           francissebastian
@@ -50,7 +50,7 @@ instagram:          parametrix
 #medium:            '@username'
 pinterest:          parametrix
 #foursquare:        username
-steam:              username
+#steam:              username
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
