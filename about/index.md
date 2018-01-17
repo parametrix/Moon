@@ -9,8 +9,7 @@ comments: false
 <center><a href="http://parametrix.github.io"><b>Parametrix</b></a> is a character inspired by Goscinny and Uderzo's 'Asterix'.</center>
 
 ## Bio
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="francissebastian"><a class="LI-simple-link" href='https://www.linkedin.com/in/francissebastian?trk=profile-badge'>Francis S.</a></div>
+Building Information Modeling (BIM) Specialist, Architectural Designer, and Application Developer using Dynamo, c#, LAMP Stack, and Python
 
 
 ## Certifications
