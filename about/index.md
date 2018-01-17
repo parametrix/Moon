@@ -26,9 +26,9 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
 <ul>
 <a href="https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/" target="_blank">Dissecting the RTV Xporter Pro Add-In for Autodesk Revit</a>
 </ul>
-*[Dissecting the RTV Xporter Pro Add-In for Autodesk Revit](https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/)
-*[Dissecting the RTV Xporter Pro Add-In for Autodesk Revit](https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/)
-*[Dissecting the RTV Xporter Pro Add-In for Autodesk Revit](https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/)
+* [Dissecting the RTV Xporter Pro Add-In for Autodesk Revit](https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/)
+* [Dissecting the RTV Xporter Pro Add-In for Autodesk Revit](https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/)
+* [Dissecting the RTV Xporter Pro Add-In for Autodesk Revit](https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/)
 
 
 ## Certifications
