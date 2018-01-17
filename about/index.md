@@ -7,7 +7,7 @@ comments: false
 ---
 
 <center>
-<a href="http://parametrix.github.io"><b>Parametrix</b></a> is a character created in homage to Goscinny and Uderzo's 'Asterix'.</center>
+<a href="http://parametrix.github.io"><i><b>Parametrix</b></a> is a character created in homage to Goscinny and Uderzo's 'Asterix'.</i></center>
 <br />
 
 ## Bio
