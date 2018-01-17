@@ -5,6 +5,18 @@ tags: [about, profile, bio, certifications]
 date: 2018-01-17
 comments: false
 ---
+<header class="header" role="banner">
+        <div class="wrapper animated fadeIn">
+            <div class="content">
+                <div class="post-title">
+                    <h1>{{ page.title }}</h1>
+                    <a class="btn zoombtn" href="{{site.url}}">
+                        <i class="fa fa-home"></i>
+                    </a>
+                </div>
+            </div>
+        </div>
+</header>
 
 <center><a href="http://parametrix.github.io"><b>Parametrix</b></a> is a character inspired by Goscinny and Uderzo's 'Asterix'.</center>
 
