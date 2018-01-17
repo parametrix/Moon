@@ -7,11 +7,14 @@ comments: false
 ---
 
 <center>
-<a href="http://parametrix.github.io"><i><b>Parametrix</b> is a character created in homage to Goscinny and Uderzo's 'Asterix'.</i></a>
+<p><i><b>Parametrix</b> is a character created in homage to Goscinny and Uderzo's 'Asterix'.</i></p>
 </center>
 
 ## Bio
 Building Information Modeling (BIM) Specialist, Architectural Designer, and Application Developer using Dynamo, c#, LAMP Stack, and Python
+
+## Articles and Publications
+[Pragmatic BIM with CADSoft’s Envisioneer Building​ | Engineering.com] (https://www.engineering.com/BIM/ArticleID/10338/Pragmatic-BIM-with-Cadsofts-Envisioneer-Building-Essentials.aspx)
 
 
 ## Certifications
