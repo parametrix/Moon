@@ -15,7 +15,7 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
 
 ## Articles and Publications
 <ul>
-<a href="https://www.engineering.com/BIM/ArticleID/10338/Pragmatic-BIM-with-Cadsofts-Envisioneer-Building-Essentials.aspx" target="_blank">Pragmatic BIM with CADSoft’s Envisioneer Building​ | Engineering.com</a>
+(https://www.engineering.com/BIM/ArticleID/10338/Pragmatic-BIM-with-Cadsofts-Envisioneer-Building-Essentials.aspx)" target="_blank">Pragmatic BIM with CADSoft’s Envisioneer Building​ | Engineering.com</a>
 </ul>
 <ul>
 <a href="https://www.caddigest.com/autodesk-sim-360-for-on-demand-fea/" target="_blank">Autodesk SIM 360 for On-Demand Finite Element Analysis for Mechanical Engineers​ | CADDigest.com</a>
@@ -26,9 +26,6 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
 <ul>
 <a href="https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/" target="_blank">Dissecting the RTV Xporter Pro Add-In for Autodesk Revit</a>
 </ul>
-* [Dissecting the RTV Xporter Pro Add-In for Autodesk Revit](https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/)
-* [Dissecting the RTV Xporter Pro Add-In for Autodesk Revit](https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/)
-* [Dissecting the RTV Xporter Pro Add-In for Autodesk Revit](https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/)
 
 
 ## Certifications
