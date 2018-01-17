@@ -25,7 +25,7 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
 <a href="https://www.caddigest.com/how-to-visualize-drawings-and-models-using-synergis-adept-edms/" target="_blank">How to Visualize Drawings and Models Using Synergis Adept Engineering Data Management System​ | CADDigest.com</a>
 </li>
 <li>
-<a href="https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/" target="_blank">Dissecting the RTV Xporter Pro Add-In for Autodesk Revit</a>
+<a href="https://www.caddigest.com/dissecting-the-rtv-xporter-pro-add-in-for-autodesk-revit/" target="_blank">Dissecting the RTV Xporter Pro Add-In for Autodesk Revit | CADDigest.com</a>
 </li>
 </ol>
 
