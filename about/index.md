@@ -59,4 +59,4 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
 </figure>
 
 ## Credits
-This page is made possible by the amazing work done on the 'Moon' Jekyll Theme by <a href="https://github.com/TaylanTatli/Moon" target="_blank">TaylanTatli</a>
+This website is made possible by the amazing work done on the 'Moon' Jekyll Theme by <a href="https://github.com/TaylanTatli/Moon" target="_blank">TaylanTatli</a>
