@@ -14,6 +14,7 @@ tag:
 - architecture
 - bim implementation
 comments: false
+feature: /projects/20171216_wallanglechecker/wallanglechecker.png
 ---
 
 # Wall Angle Checker
