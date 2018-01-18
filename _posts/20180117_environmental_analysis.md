@@ -2,10 +2,12 @@
 layout: post
 title: "Automating Environmental Analysis"
 date: 2018-01-17
-excerpt: "Examples and code for displaying images in posts."
+excerpt: "Examples of model-based approaches for Energy Analysis"
+project: true
 tags: [revit, lighting analysis, wind analysis, energy analysis]
 comments: true
 ---
+
 # Lighting Analysis
 <figure>
 <a href="/projects/20180117_environmental_analysis/img/01_lighting.png"><img src="/projects/20180117_environmental_analysis/img/01_lighting.png"></a>
