@@ -15,21 +15,21 @@ comments: true
 
 # Lighting Analysis
 <figure class="third">
-<img src="/projects/20180117_environmental_analysis/img/01_lighting.png">
-<img src="/projects/20180117_environmental_analysis/img/02_lighting.png">
-<img src="/projects/20180117_environmental_analysis/img/03_lighting.png">
+<a href="/projects/20180117_environmental_analysis/img/01_lighting.png"><img src="/projects/20180117_environmental_analysis/img/01_lighting.png"></a>
+<a href="/projects/20180117_environmental_analysis/img/02_lighting.png"><img src="/projects/20180117_environmental_analysis/img/02_lighting.png"></a>
+<a href="/projects/20180117_environmental_analysis/img/03_lighting.png"><img src="/projects/20180117_environmental_analysis/img/03_lighting.png"></a>
 </figure>
 
 # Wind Analysis
 <figure class="half">
-<img src="/projects/20180117_environmental_analysis/img/04_wind.png">
-<img src="/projects/20180117_environmental_analysis/img/05_wind.png">
+<a href="/projects/20180117_environmental_analysis/img/04_wind.png"><img src="/projects/20180117_environmental_analysis/img/04_wind.png"></a>
+<a href="/projects/20180117_environmental_analysis/img/05_wind.png"><img src="/projects/20180117_environmental_analysis/img/05_wind.png"></a>
 </figure>
 
 # Energy Analysis
 <figure class="half">
-<img src="/projects/20180117_environmental_analysis/img/06_energy.png">
-<img src="/projects/20180117_environmental_analysis/img/07_energy.png">
+<a href="/projects/20180117_environmental_analysis/img/06_energy.png"><img src="/projects/20180117_environmental_analysis/img/06_energy.png"></a>
+<a href="/projects/20180117_environmental_analysis/img/07_energy.png"><img src="/projects/20180117_environmental_analysis/img/07_energy.png"></a>
 </figure>
 
 ![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
