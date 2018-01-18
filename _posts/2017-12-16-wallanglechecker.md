@@ -5,16 +5,17 @@ date:   2017-12-16
 excerpt: "Revit API Development"
 project: true
 tag:
-- design
-- documentation
+- revitapi
+- c#
 - revit
 - high-rise
 - residential
 - new york city
 - architecture
 - bim implementation
+- troubleshooting
 comments: false
-feature: /projects/20171216_wallanglechecker/wallanglechecker.png
+feature: "/projects/20171216_wallanglechecker/wallanglechecker.png"
 ---
 
 # Wall Angle Checker
