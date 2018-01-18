@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building Performance Analysis Using Modeling Tools"
-date:   2018-01-15
+date:   2016-03-21
 excerpt: "A demonstration of model generated workflows for energy and environmental analysis"
 project: true
 tag:
