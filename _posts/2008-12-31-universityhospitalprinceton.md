@@ -16,8 +16,11 @@ comments: false
 ---
 
 # Unversity Medical College Hospital of Princeton
-<figure class="half">
+<figure>
 <a href="/projects/portfolio_slides/umcp01.png"><img src="/projects/portfolio_slides/umcp01.png"></a>
+<figurecaption><i>( Click to enlarge! )</i></figurecaption>
+</figure>
+<figure>
 <a href="/projects/portfolio_slides/umcp02.png"><img src="/projects/portfolio_slides/umcp02.png"></a>
 <figurecaption><i>( Click to enlarge! )</i></figurecaption>
 </figure>
