@@ -60,3 +60,6 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
 
 ## Credits
 This website is made possible by the amazing work done on the 'Moon' Jekyll Theme by <a href="https://github.com/TaylanTatli/Moon" target="_blank">TaylanTatli</a>
+<br />
+Rosewindow Art from <a href="http://friezetile.blogspot.be/2011/07/rose-window-drawings.html" target="_blank">BrodieLindsay</a>
+
