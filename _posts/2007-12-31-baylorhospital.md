@@ -13,6 +13,7 @@ tag:
 - large hospital
 - BIM
 comments: false
+feature: "/projects/portfolio_slides/baylor02.png"
 ---
 
 # Baylor College of Medicine Hospital

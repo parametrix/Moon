@@ -13,6 +13,7 @@ tag:
 - troubleshooting
 - BIM
 comments: false
+feature: "/projects/portfolio_slides/umcp01.png"
 ---
 
 # Unversity Medical College Hospital of Princeton

@@ -20,7 +20,7 @@ feature: "/projects/20171216_wallanglechecker/wallanglechecker.png"
 
 # Wall Angle Checker
 <figure>
-<a href="/projects/portfolio_slides/oro01.png"><img src="/projects/20171216_wallanglechecker/wallanglechecker.png"></a>
+<a href="/projects/20171216_wallanglechecker/wallanglechecker.png"><img src="/projects/20171216_wallanglechecker/wallanglechecker.png"></a>
 <figurecaption><i>Screen grab of the Dockable Pane Inteface( Click to enlarge! )</i></figurecaption>
 </figure>
 Wall Angle Checker is an application built for identifying walls and lines that do not confirm to standard project angles.
