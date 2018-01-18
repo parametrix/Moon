@@ -3,7 +3,6 @@ layout: post
 title: "Automating Environmental Analysis"
 date: 2018-01-17
 excerpt: "Examples of model-based approaches for Energy Analysis"
-project: true
 tag: 
 - revit
 - lighting analysis
