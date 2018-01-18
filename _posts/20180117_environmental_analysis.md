@@ -4,7 +4,11 @@ title: "Automating Environmental Analysis"
 date: 2018-01-17
 excerpt: "Examples of model-based approaches for Energy Analysis"
 project: true
-tags: [revit, lighting analysis, wind analysis, energy analysis]
+tag: 
+- revit
+- lighting analysis
+- wind analysis
+- energy analysis
 comments: true
 ---
 
