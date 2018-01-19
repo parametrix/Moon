@@ -13,6 +13,12 @@ comments: false
 ## Bio
 Building Information Modeling (BIM) Specialist, Architectural Designer, and Application Developer using Dynamo, c#, LAMP Stack, and Python
 
+## Blogs
+<a class="btn zoombtn" href="http://parametrix.blogspot.com/">TechLog</a>
+<a class="btn zoombtn" href="https://paraanalytics.wordpress.com/">Wordpress</a>
+<a class="btn zoombtn" href="https://drive.google.com/open?id=1kUlX0bx-RVtgb20D2LAVkAW9sTfw6oHA">Portfolio</a>
+
+
 ## Articles and Publications
 <ol>
 <li>
