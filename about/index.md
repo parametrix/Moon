@@ -14,9 +14,9 @@ comments: false
 Building Information Modeling (BIM) Specialist, Architectural Designer, and Application Developer using Dynamo, c#, LAMP Stack, and Python
 
 ## Blogs
-<a class="btn zoombtn" href="http://parametrix.blogspot.com/">TechLog</a>
-<a class="btn zoombtn" href="https://paraanalytics.wordpress.com/">Wordpress</a>
-<a class="btn zoombtn" href="https://drive.google.com/open?id=1kUlX0bx-RVtgb20D2LAVkAW9sTfw6oHA">Portfolio</a>
+<a class="btn zoombtn" href="http://parametrix.blogspot.com/" target="_blank">TechLog</a>
+<a class="btn zoombtn" href="https://paraanalytics.wordpress.com/" target="_blank">Wordpress</a>
+<a class="btn zoombtn" href="https://drive.google.com/open?id=1kUlX0bx-RVtgb20D2LAVkAW9sTfw6oHA" target="_blank">Portfolio</a>
 
 
 ## Articles and Publications
@@ -60,7 +60,7 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
   </script>
 
 <figure class="half">
- <a href="https://www.usgbc.org/people/francis-sebastian/0010035466"><img src="/assets/img/LEED_AP_300x150.png"></a>
+ <a href="https://www.usgbc.org/people/francis-sebastian/0010035466"><img src="/assets/img/LEED_AP_300x150.png" target="_blank"></a>
  <a href=""><img src="/assets/img/blank_300x150.png"></a>
 </figure>
 
