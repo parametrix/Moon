@@ -12,8 +12,8 @@ tag:
 - art gallery
 - new york city
 - architecture
-feature: "/projects/20171216_wallanglechecker/affirma01.png"
 comments: false
+feature: "/projects/portfolio_slides/affirma01.png"
 ---
 
 # Affirmation Arts
