@@ -12,6 +12,7 @@ tag:
 - art gallery
 - new york city
 - architecture
+feature: "/projects/20171216_wallanglechecker/affirma01.png"
 comments: false
 ---
 
