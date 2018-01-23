@@ -16,6 +16,7 @@ tag:
 - troubleshooting
 comments: false
 feature: "/projects/20171216_wallanglechecker/wallanglechecker.png"
+thumb: "/projects/20171216_wallanglechecker/wallanglechecker.png"
 ---
 
 # Wall Angle Checker
