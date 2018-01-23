@@ -13,7 +13,7 @@ tag:
 - LEED
 - BIM
 comments: false
-feature: "/projects/20180117_environmental_analysis/img/04_wind_thumb.png"
+feature: "/projects/20180117_environmental_analysis/img/04_wind.png"
 thumb: "/projects/20180117_environmental_analysis/img/04_wind_thumb.png"
 ---
 
