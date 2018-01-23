@@ -14,7 +14,7 @@ layout: compress
           float: left;
           width: 50%;
           padding: 10px;
-          height: 300px; /* Should be removed. Only for demonstration */
+          /* height: 300px;  Should be removed. Only for demonstration */
       }
 
       /* Clear floats after the columns */
@@ -52,10 +52,10 @@ layout: compress
                             <div class="column">
                               <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn"><img src="{{ post.thumb }}"></a>
                             </div>
-                            <div class="column">
-                              <a class="zoombtn" href="{{ site.url }}{{ post.url }}" align="left">{{ post.title }}</a>
+                            <div class="column" align="left">
+                              <a class="zoombtn" href="{{ site.url }}{{ post.url }}">{{ post.title }}</a>
                               <p>{{ post.excerpt }}</p>
-                              <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn" align="left">Read More</a>
+                              <a href="{{ site.url }}{{ post.url }}" class="btn zoombtn">Read More</a>
                             </div>
                           </div>
                         </li>
