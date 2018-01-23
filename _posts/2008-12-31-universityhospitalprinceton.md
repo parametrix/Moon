@@ -14,6 +14,7 @@ tag:
 - BIM
 comments: false
 feature: "/projects/portfolio_slides/umcp01.png"
+thumb: "/projects/portfolio_slides/umcp01_thumb.png"
 ---
 
 # Unversity Medical College Hospital of Princeton

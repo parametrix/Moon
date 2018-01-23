@@ -14,6 +14,7 @@ tag:
 - architecture
 comments: false
 feature: "/projects/portfolio_slides/affirma01.png"
+thumb: "/projects/portfolio_slides/affirma01_thumb.png"
 ---
 
 # Affirmation Arts

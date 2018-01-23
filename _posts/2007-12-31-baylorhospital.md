@@ -14,6 +14,7 @@ tag:
 - BIM
 comments: false
 feature: "/projects/portfolio_slides/baylor02.png"
+thumb: "/projects/portfolio_slides/baylor02_thumb.png"
 ---
 
 # Baylor College of Medicine Hospital
