@@ -13,6 +13,11 @@ comments: false
 ## Bio
 Building Information Modeling (BIM) Specialist, Architectural Designer, and Application Developer using Dynamo, c#, LAMP Stack, and Python
 
+## Autodesk University 2018
+<figure>
+ <a href="https://www.autodesk.com/autodesk-university/class/Programming-Intelligent-Wayfinding-and-Egress-Planning-2018#video" target="_blank"><img src="/projects/20181123_flux2o/presentation_page.png"></a><figurecaption><i>PDF Document</i></figurecaption>
+</figure>
+
 ## Blogs
 <a class="btn zoombtn" href="http://parametrix.blogspot.com/" target="_blank">TechLog</a>
 <a class="btn zoombtn" href="https://paraanalytics.wordpress.com/" target="_blank">Wordpress</a>
