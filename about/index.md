@@ -15,7 +15,7 @@ Building Information Modeling (BIM) Specialist, Architectural Designer, and Appl
 
 ## Autodesk University 2018
 <figure>
- <a href="https://www.autodesk.com/autodesk-university/class/Programming-Intelligent-Wayfinding-and-Egress-Planning-2018#video" target="_blank"><img src="/projects/20181123_flux2o/presentation_page.png"></a><figurecaption><i>PDF Document</i></figurecaption>
+ <a href="https://www.autodesk.com/autodesk-university/class/Programming-Intelligent-Wayfinding-and-Egress-Planning-2018#video" target="_blank"><img src="/projects/20181123_flux2o/presentation_page.png"></a><figurecaption><i>Link to the Autodesk University Website</i></figurecaption>
 </figure>
 
 ## Blogs
